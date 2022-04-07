@@ -1,0 +1,33 @@
+.footer {
+    position: absolute;
+    height: 151px;
+    top: 2313px;
+    width: 100%;
+    background-color: #34547A;
+}
+
+.footer__content{
+    position: relative;
+    margin-left: 406px;
+
+}
+
+.footer__content_name{
+    font-family: Roboto;
+    font-weight: 500;
+    line-height: 25px;
+    font-size: 21px;
+    color: #FFFFFF;
+    margin-top: 50px;
+
+}
+
+.footer__content_dis{
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 21px;
+    color: #FFFFFF;
+    margin-bottom: 50px;
+
+}

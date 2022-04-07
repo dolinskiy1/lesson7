@@ -1,0 +1,146 @@
+.about {
+    position: absolute;
+    top: 700px;
+    min-height: 359px;
+    width: 100%;
+}
+
+
+.about__content {
+    position: relative;
+    width: 540px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.about__content_title {
+    font-family: Roboto;
+    font-weight: 500;
+    line-height: 38px;
+    font-size: 32px;
+    color: black;
+    margin-top: 112px;
+}
+
+.about__content_dis{
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #727272;
+    margin-bottom: 100px;
+}
+
+
+
+.item {
+    position: absolute;
+    min-height: 250px;
+    top: 1059px;
+    width: 100%;
+    background-color: #34547A;
+}
+
+.item__content{
+    position: relative;
+    display: block;
+    height: 250px;
+    width: 1120px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.item__content_unit {
+    display: inline-block;
+    height: 50px;
+    width: 141px;
+    margin-right: 49px;
+    margin-top: 100px;
+}
+
+#last {
+    margin-right: 0px;
+}
+
+#box{
+    display: inline-block;
+}
+
+.item__content_unit-dsk {
+    position: absolute;
+    margin-left: 20px;
+    display: block;
+    height: 50px;
+
+}
+
+h3{
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 25px;
+    color: #FFFFFF;
+    margin: 0px;
+}
+
+p {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+    margin: 0px;
+}
+
+.video{
+    position: absolute;
+    min-height: 1004px;
+    top: 1309px;
+    width: 100%;
+    background-color: #EEEFF1;
+}
+
+.video__content{
+    border: none;
+    position: relative;
+    width: 540px;
+    top: 0px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.video__content_title{
+    font-family: Roboto;
+    font-weight: 500;
+    line-height: 38px;
+    font-size: 32px;
+    color: black;
+    margin-top: 100px;
+}
+
+.video__content_dis{
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #727272;
+    margin-bottom: 57px;
+}
+
+.video__link {
+    position: relative;
+    top: 0px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+iframe {
+    height: 600px;
+    width: 1110px;
+}
