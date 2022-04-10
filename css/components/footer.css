@@ -1,15 +1,9 @@
-.footer {
-    position: absolute;
-    height: 151px;
-    top: 2313px;
-    width: 100%;
+footer {
     background-color: #34547A;
 }
 
 .footer__content{
-    position: relative;
     margin-left: 406px;
-
 }
 
 .footer__content_name{
@@ -18,8 +12,7 @@
     line-height: 25px;
     font-size: 21px;
     color: #FFFFFF;
-    margin-top: 50px;
-
+    padding-top: 50px;
 }
 
 .footer__content_dis{
@@ -28,6 +21,5 @@
     font-size: 13px;
     line-height: 21px;
     color: #FFFFFF;
-    margin-bottom: 50px;
-
+    padding-bottom: 50px;
 }
