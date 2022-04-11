@@ -9,7 +9,7 @@
 }
 
 .about__content_title {
-    font-family: Roboto;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
     font-weight: 500;
     line-height: 38px;
     font-size: 32px;
@@ -18,14 +18,12 @@
 }
 
 .about__content_dis{
-    font-family: Roboto;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 26px;
     color: #727272;
 }
-
-
 
 .item {
     background-color: #34547A;
@@ -61,11 +59,10 @@
     margin-left: 20px;
     display: block;
     height: 50px;
-
 }
 
-h3{
-    font-family: Roboto;
+.item__content_unit-dsk h3{
+    font-family: Roboto, Arial, Helvetica, sans-serif;
     font-weight: 500;
     font-size: 21px;
     line-height: 25px;
@@ -73,8 +70,8 @@ h3{
     margin: 0px;
 }
 
-p {
-    font-family: Roboto;
+.item__content_unit-dsk p {
+    font-family: Roboto, Arial, Helvetica, sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 26px;
@@ -97,7 +94,7 @@ p {
 }
 
 .video__content_title{
-    font-family: Roboto;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
     font-weight: 500;
     line-height: 38px;
     font-size: 32px;
@@ -106,7 +103,7 @@ p {
 }
 
 .video__content_dis{
-    font-family: Roboto;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 26px;
@@ -121,7 +118,7 @@ p {
     padding-bottom: 100px;
 }
 
-iframe {
+.video__link_url {
     height: 600px;
     width: 1110px;
 }

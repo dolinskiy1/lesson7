@@ -18,10 +18,11 @@ header {
 
 .header__navbar li {
     display: inline-block;
+    vertical-align: top;
 }
 
 .header__navbar_menu-link {
-    font-family: Roboto;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
     font-weight: 400;
     letter-spacing: 0.1em;
     font-size: 16px;
@@ -36,8 +37,8 @@ header {
 }
 
 
-h1{
-    font-family: Roboto;
+.header__content h1{
+    font-family: Roboto, Arial, Helvetica, sans-serif;
     font-weight: 500;
     font-size: 48px;
     margin-bottom: 60px;
@@ -49,7 +50,7 @@ h1{
 }
 
 .header__content_dis{
-    font-family: Roboto;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 26px;
