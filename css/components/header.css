@@ -10,9 +10,9 @@ header {
 
 .header__navbar {
     list-style-type: none;
-    display: inline-block;
+    margin-top: 0px;
     padding-left: 0px;
-    margin-top: 79px;
+    padding-top: 79px;
     margin-bottom: 162px;
 }
 
